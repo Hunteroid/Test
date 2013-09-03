@@ -84,6 +84,7 @@ namespace task2
             Console.Write("Введите длину стороны а: ");
             int a = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine();
+            Console.WriteLine();
 
             Console.Write("Введите длину стороны b: ");
             int b = Convert.ToInt32(Console.ReadLine());
