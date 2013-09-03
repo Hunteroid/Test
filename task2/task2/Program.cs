@@ -15,8 +15,7 @@ namespace task2
     class Triangle
     {
         //поля (длины сторон)
-        private int a, b, c;
-        public string color;
+        private int a, b, c;      
 
         //свойства (доступ к полям)
         public int A
@@ -84,7 +83,8 @@ namespace task2
             Console.WriteLine("Программа для рассчета периметра и площади треугольника!");
 
             Console.Write("Введите цвет треугольника: ");
-            string color = Console.ReadLine();
+            string temp = Console.ReadLine();
+            Color col = new Color(temp.ToString());
             Console.WriteLine();
             
             Console.Write("Введите длину стороны а: ");
@@ -105,7 +105,7 @@ namespace task2
             
             Console.WriteLine("Периметр треугольника равен: {0}", instanse.Perimeter());
             Console.WriteLine("Площадь треугольника равна: {0}", instanse.Square());
-            Console.WriteLine("Цвет треугольника {0}", color);
+            Console.WriteLine("Цвет треугольника {0}", col.color);
 
             Console.ReadKey();            
 

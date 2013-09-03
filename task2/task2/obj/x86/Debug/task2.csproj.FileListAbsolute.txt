@@ -1,0 +1,20 @@
+J:\001_Classes\task2\task2\bin\Debug\task2.exe
+J:\001_Classes\task2\task2\bin\Debug\task2.pdb
+J:\001_Classes\task2\task2\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\001_Classes\task2\task2\obj\x86\Debug\task2.exe
+J:\001_Classes\task2\task2\obj\x86\Debug\task2.pdb
+G:\My\Программирование\SyberBionic\Essentisal\CS_Essential_RU_My\001_Classes\task2\task2\obj\x86\Debug\task2.exe
+G:\My\Программирование\SyberBionic\Essentisal\CS_Essential_RU_My\001_Classes\task2\task2\obj\x86\Debug\task2.pdb
+G:\My\Программирование\SyberBionic\Essentisal\CS_Essential_RU_My\001_Classes\task2\task2\bin\Debug\task2.exe
+G:\My\Программирование\SyberBionic\Essentisal\CS_Essential_RU_My\001_Classes\task2\task2\bin\Debug\task2.pdb
+G:\My\Программирование\SyberBionic\Essentisal\CS_Essential_RU_My\001_Classes\task2\task2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My\Программирование\SyberBionic\C# Essentisal\CS_Essential_RU_My\001_Classes\task2\task2\obj\x86\Debug\task2.exe
+D:\My\Программирование\SyberBionic\C# Essentisal\CS_Essential_RU_My\001_Classes\task2\task2\obj\x86\Debug\task2.pdb
+D:\My\Программирование\SyberBionic\C# Essentisal\CS_Essential_RU_My\001_Classes\task2\task2\bin\Debug\task2.exe
+D:\My\Программирование\SyberBionic\C# Essentisal\CS_Essential_RU_My\001_Classes\task2\task2\bin\Debug\task2.pdb
+D:\My\Программирование\SyberBionic\C# Essentisal\CS_Essential_RU_My\001_Classes\task2\task2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GIT\My\task2\task2\obj\x86\Debug\task2.exe
+D:\GIT\My\task2\task2\obj\x86\Debug\task2.pdb
+D:\GIT\My\task2\task2\bin\Debug\task2.exe
+D:\GIT\My\task2\task2\bin\Debug\task2.pdb
+D:\GIT\My\task2\task2\obj\x86\Debug\ResolveAssemblyReference.cache
