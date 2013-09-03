@@ -80,9 +80,10 @@ namespace task2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Программа для рассчета периметра и площади треугольника");
+            Console.WriteLine("Программа для рассчета периметра и площади треугольника!");
             Console.Write("Введите длину стороны а: ");
             int a = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine();
             Console.WriteLine();
 
             Console.Write("Введите длину стороны b: ");
